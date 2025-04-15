@@ -10,7 +10,11 @@ http://www.mercury.co.kr/en/portfolio/gapm-7100/?ckattempt=1
 ![WhatsApp Image 2025-04-14 at 14 33 45_f0f8cecf](https://github.com/user-attachments/assets/7753e9ee-26a9-41ba-bc4c-667574e9623d)  
 ZTE e8822
 
-## OLT
+## OLT GPON
+
+![image](https://github.com/user-attachments/assets/a17bedca-a422-445e-8a71-79f44a801f59)
+
+V-SOL V1600GS-F 1 Port GPON OLT VSOL 128 USER AC+DC 12V POWER UPLINK 1 PON 10G SFP+ 2 RJ45 LAYER 3 V1600 GS-F WITH FAN
 
 ## Mikrotik
 
